@@ -1,3 +1,3 @@
 # Diabetes  Prediction  using Machine-Learning
 Diabetes prediction is a classification project. In this project our algorithm will predict a patient has diabetes or not based on insulin, age, bmi, bp etc. In this project are 5 steps. First step is loading patient data .Next step is cleaning the data which involves removing rows with NAN or filling NAN with mean strategy.It also involves removing duplicate cloumns or correlated cloumns.After cleaning the data we have split the data into training and testing data.In this project we have used naive bayes algorithm,random forest algorithm,logistic regression algorithm.
-Conclusion: For this project I am recommending logistic regression algorithm because it is having more accuracy compared to other algorithm.Accuracy 83%.
+Conclusion: For this project I am recommending logistic regression algorithm because it is having more accuracy compared to other algorithm.Accuracy 73%.
